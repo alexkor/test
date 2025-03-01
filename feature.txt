@@ -1,0 +1,3 @@
+feature created
+add new function
+more beauty code
