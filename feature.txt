@@ -1,1 +1,2 @@
 feature created
+add new function
